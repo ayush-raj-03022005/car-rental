@@ -1,0 +1,20 @@
+body{
+    color:white;
+    background-color: black;
+    margin:50px;
+    padding:50px;
+    text-align: center;
+ 
+ }
+ h1{
+     font-family:Tahoma, sans-serif;
+     font-size: 50px;
+ }
+ h2{
+    font-size: 30px;
+ }
+ a{
+     color: lime;
+     font-size: 30px;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
